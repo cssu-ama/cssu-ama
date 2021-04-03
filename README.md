@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cssu-ama
+- 👋 Hi, I’m amir mohammad
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning front-end techknowlogies
 
